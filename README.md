@@ -1,2 +1,6 @@
 # MyTeamLeadConf2019
-This is my short version of content I found interesting on #TeamLeadConf2019. Official videos will be published later. 
+25-26 февраля прошла профессиональная конференция про тимлидов и для тимлидов [TeamLeadConf2019](https://teamleadconf.ru/moscow/2019/schedule).
+
+Здесь Вы найдете обзорную информацию о содержании некоторых докладов. Конспекты, иногда дополненные личными мыслями и полезными ссылками.
+
+Начинать рекомендую с [содержания](/Contents.md)
